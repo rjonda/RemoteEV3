@@ -1,0 +1,8 @@
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\bin\Debug\Test.exe.config
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\bin\Debug\Test.exe
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\bin\Debug\Test.pdb
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\obj\Debug\Test.exe
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\obj\Debug\Test.pdb
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\bin\Debug\RemoteEV3.dll
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\Test\bin\Debug\RemoteEV3.pdb

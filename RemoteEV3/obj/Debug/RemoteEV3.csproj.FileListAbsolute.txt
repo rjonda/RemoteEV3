@@ -1,0 +1,4 @@
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\RemoteEV3\bin\Debug\RemoteEV3.dll
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\RemoteEV3\bin\Debug\RemoteEV3.pdb
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\RemoteEV3\obj\Debug\RemoteEV3.dll
+C:\Users\Jonáš\Documents\Soubory\Visual Studio 2013\Projects\RemoteEV3\RemoteEV3\obj\Debug\RemoteEV3.pdb
