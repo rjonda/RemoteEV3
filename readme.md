@@ -33,14 +33,10 @@ In brick just use Messaging block to send or receive data.
 1) Right click bluetooth icon in taskbar
 2) Click Properties
 3) Open COM Ports tab
-4) There should be ports for your brick
-   If they arent there, do following things:
-    a) Depending on your system connect to your brick (pair it with PC),
-        reload COM Ports tab
-    b) Your brick must be connected by USB wire, not by bluetooth with
-        your LEGO MINDSTORMS(c) software
-    c) Check, if your brick has bluetooth on and iPhone mode off, visibility on
-    d) Write me at jonashrosecky@gmail.com and I'll try to solve it ;)
+4) There should be ports for your brick. If they arent there, do following things:
+   1) Depending on your system connect to your brick (pair it with PC), reload COM Ports tab
+   2) Your brick must be connected by USB wire, not by bluetooth with your LEGO MINDSTORMS(c) software
+   3) Check, if your brick has bluetooth on and iPhone mode off, visibility on
     
 Have fun with tries ;)
 I'll be glad for to feedback...
